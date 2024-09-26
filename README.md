@@ -149,3 +149,5 @@ To run the CARDTracker API using Docker, follow these steps:
 ## Conclusion
 
 CARDTracker is a simple yet robust API for tracking card statuses, designed with scalability and flexibility in mind. Its priority-based status system ensures that users always receive the most relevant card status for their queries.
+
+[Card_Tracker_project_presentation.pdf](https://github.com/user-attachments/files/17145404/Card_Tracker_project_presentation.pdf)
